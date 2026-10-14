@@ -56,6 +56,6 @@
 
 ## Датасет
 Для проекта используются исторические данные фондового рынка из соревнования Kaggle **JPX Tokyo Stock Exchange Prediction**.
-**Источник данных:** [JPX Tokyo Stock Exchange Prediction — Kaggle](https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/data)
+Источник данных: [JPX Tokyo Stock Exchange Prediction — Kaggle](https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/data)
 
 
